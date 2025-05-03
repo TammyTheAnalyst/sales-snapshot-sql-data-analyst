@@ -58,6 +58,8 @@ This project answers that question by querying and analyzing sales data, organiz
 
 ## 📸 Screenshots
 
+- 3/5/2025
+![](https://github.com/TammyTheAnalyst/sales-snapshot-sql-data-analyst/blob/main/images/Screenshot%20(4684).png)
 
 ---
 
