@@ -73,7 +73,5 @@ This project answers that question by querying and analyzing sales data, organiz
 
 ---
 
-## 🔁 Status
 
-Currently in progress — working one step at a time to fully master the analyst workflow.
 
