@@ -69,7 +69,7 @@ This project answers that question by querying and analyzing sales data, organiz
 - Reinforce data analyst fundamentals using SQL
 - Build repeatable workflows
 - Practice real-world business communication
-- Gain confidence for interviews and on-the-job tasks
+
 
 ---
 
