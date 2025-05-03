@@ -17,7 +17,7 @@ This project answers that question by querying and analyzing sales data, organiz
 - **SQL** – Data exploration, cleaning, grouping
 - **GitHub** – Version control and documentation
 - **Trello** – Project planning and task tracking
-- **Screenshots** – Captured at key milestones (see `data/images/`)
+- **Screenshots** – Captured at key milestones (see `/images/`)
 
 ---
 
