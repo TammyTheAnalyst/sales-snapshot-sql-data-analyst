@@ -23,9 +23,11 @@ This project answers that question by querying and analyzing sales data, organiz
 
 ## 📁 Project Structure
 
-sql queries/ → SQL files used for querying and analysis
-images/ → Screenshots captured at key milestones
-outputs/ → Final results (e.g. Excel summaries or exported tables)
+- sql queries/ → SQL files used for querying and analysis
+
+- images/ → Screenshots captured at key milestones
+
+- outputs/ → Final results (e.g. Excel summaries or exported tables)
 
 ---
 
